@@ -1,0 +1,11 @@
+html, body {
+    margin: 20px;
+    padding: auto;
+    }
+h1{
+    font-size: 45px;
+}
+p{
+    font-size: 30px;
+    font-weight: normal
+}
